@@ -1,0 +1,43 @@
+body{
+margin: Opx;
+}
+main{
+margin-left: 20px;
+margin-right: 20px;
+}
+h1{
+color:dodgerblue;
+text-align: center;
+font-family: "Patua One";
+}
+.navbar ul{
+list-style-type: none;
+font-family: "Patua One";
+background-color: lightblue; 
+padding: 5px; 
+margin: 10px;
+overflow:hidden;
+}
+.navbar a{
+color: darkblue; 
+font-family: "Patua One";
+text-decoration: none;
+padding: 15px; 
+display: block; 
+text-align: center;
+}
+.navbar a:hover{
+background-color: lightblue;
+}
+.navbar li{
+float: left;
+}
+h3{
+color:blue;
+font-family: "Patua One";
+padding: 10px;
+}
+p{
+color:cornflowerblue;
+font-family: "Patua One";
+}
